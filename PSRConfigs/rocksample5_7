@@ -1,0 +1,8 @@
+SVD_Dimension=120
+Projection_Dimension=-1
+Hist_Compress=true
+Memoryless=false
+Hashed=true
+Projection_Type=Bernoulli
+Max_Test_Length=2
+Max_History_Length=27
